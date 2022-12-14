@@ -13,7 +13,7 @@ The Django Girls organization offers an awesome walkthrough of creating a simpli
 7. READ _Django installation_: you can skip these steps and install Django the way you saw in class. OR you can install it this way. Entirely up to you.
 
     (If you do it the way we do in class, you will use `pipenv` instead of `virtualenv` and `pipenv install` instead of `pip install`.)
-8. Begin the coding section of the tutorial, which you will write in this repository, with _Your first Django project!_. Follow all the steps up to and including _Django Admin_.
+8. DO the coding section of the tutorial, which you will write in this repository, beginning with _Your first Django project!_. Follow all the steps up to and including _Django Admin_.
 9. SKIP the _Deploy!_ section. This uses a service called PythonAnywhere to deploy your code. We'll learn about deploying later in the course. You also do not need to do any of the Git steps in this section. Just do your usual routine of adding, committing, and pushing code to _this_ repo.
 9. CONTINUE with the [Django URLS section](https://tutorial.djangogirls.org/en/django_urls/#django-urls) and go on to the end of the tutorial. The last thing you will do is the section on Forms.
 
